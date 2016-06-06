@@ -30,4 +30,4 @@ PRODUCT_SYSTEM_PROPERTY_BLACKLIST := \
     ro.product.manufacturer \
     ro.product.model
 
-$(call inherit-product-if-exists, vendor/google/sed/device-vendor.mk)
+$(call inherit-product-if-exists, vendor/google/seed/device-vendor.mk)
